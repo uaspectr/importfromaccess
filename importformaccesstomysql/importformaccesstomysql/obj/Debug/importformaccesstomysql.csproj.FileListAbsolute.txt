@@ -1,0 +1,9 @@
+c:\users\uaspectr\documents\visual studio 2012\Projects\importformaccesstomysql\importformaccesstomysql\bin\Debug\importformaccesstomysql.exe.config
+C:\Users\uaspectr\documents\visual studio 2012\Projects\importformaccesstomysql\importformaccesstomysql\bin\Debug\importformaccesstomysql.exe
+C:\Users\uaspectr\documents\visual studio 2012\Projects\importformaccesstomysql\importformaccesstomysql\bin\Debug\importformaccesstomysql.pdb
+C:\Users\uaspectr\documents\visual studio 2012\Projects\importformaccesstomysql\importformaccesstomysql\obj\Debug\importformaccesstomysql.csprojResolveAssemblyReference.cache
+C:\Users\uaspectr\documents\visual studio 2012\Projects\importformaccesstomysql\importformaccesstomysql\obj\Debug\importformaccesstomysql.Form1.resources
+C:\Users\uaspectr\documents\visual studio 2012\Projects\importformaccesstomysql\importformaccesstomysql\obj\Debug\importformaccesstomysql.Properties.Resources.resources
+C:\Users\uaspectr\documents\visual studio 2012\Projects\importformaccesstomysql\importformaccesstomysql\obj\Debug\importformaccesstomysql.csproj.GenerateResource.Cache
+C:\Users\uaspectr\documents\visual studio 2012\Projects\importformaccesstomysql\importformaccesstomysql\obj\Debug\importformaccesstomysql.exe
+C:\Users\uaspectr\documents\visual studio 2012\Projects\importformaccesstomysql\importformaccesstomysql\obj\Debug\importformaccesstomysql.pdb
